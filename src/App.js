@@ -10,7 +10,7 @@ function App() {
       <div className='App-header'>
         <Header/>
       </div>
-      <div>
+      <div className='App-content'>
         <Content/> 
       </div>
       <div className='App-footer'>
