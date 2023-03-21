@@ -1,0 +1,9 @@
+.main img {
+    max-height: 85vh;
+    position: relative;
+    left:400px;
+}
+.main img{
+    width: 3000px;
+    margin-left: 700px;
+}
